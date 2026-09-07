@@ -24,3 +24,4 @@ Notes and usage details for ah.sh.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
